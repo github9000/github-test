@@ -189,7 +189,6 @@ def VGG_19():
 
 
 
-#os.environ["PATH"] += os.pathsep + 'C:/Users/Ken/Anaconda3/Library/bin/graphviz/'
 #plot_model(model, to_file='./model_plot.png', show_shapes=True, show_layer_names=True)
 
 
